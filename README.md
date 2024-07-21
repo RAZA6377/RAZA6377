@@ -1,6 +1,14 @@
-<h1 style="align": "center">Hello! I Am Raza</h1>
-<h5 style="text-align: center">Discord raza.py</h5>
-Instagaram - raza63_77
-interested in - coding/python
-i like coding a discord bot
-learner
+#  Hello! I Am Raza
+
+##  Discord: raza.py
+
+##  Instagram: [m_raza6377](https://www.instagram.com/m_raza6377)
+
+---
+
+### About Me
+
+- Not Interested In Anything Except Programming.
+---
+
+Contact Me On Discord
