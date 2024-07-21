@@ -1,4 +1,4 @@
-<h1 style="text-align": "center";>Hello! I Am Raza</h1>
+<h1 style="align": "center">Hello! I Am Raza</h1>
 My Discord Account RAZA#6815
 Instagaram - raza63_77
 interested in - coding/python
