@@ -8,7 +8,9 @@
 
 ### About Me
 
-- Not Interested In Anything Except Programming.
+- Programmer
+- App Dev Beginner
+
 ---
 
 Contact Me On Discord
