@@ -8,8 +8,8 @@
 
 ### About Me
 
-- Programmer
-- App Dev Beginner
+- Python Programmer
+- Discord Bot Dev
 
 ---
 
