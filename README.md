@@ -14,3 +14,5 @@
 ---
 
 Contact Me On Discord
+
+https://support.lenovo.com/in/en/downloads/ds121190-qualcomm-atheros-bluetooth-driver-for-windows-7-32-bit-64-bit-thinkpad-e470-e570?utm_source=chatgpt.com
